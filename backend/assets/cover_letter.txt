@@ -1,0 +1,11 @@
+Based on the provided job description, I'd like to express my interest in the position. With over 3 years of experience in Python and backend development, I'm confident in my ability to contribute to the role.
+
+As a skilled software engineer, I've worked on various projects, including web scraping, API development, and data processing. My experience with frameworks like Django, FastAPI, and Flask, along with databases such as PostgreSQL, MongoDB, and Elasticsearch, makes me a strong fit for the position.
+
+I'd like to highlight my achievements as a Python Developer at Nobroker, where I led the backend development of a property search engine and developed microservices-based APIs, reducing latency by up to 50%. I've also worked on big data processing, analyzing supply-demand trends and optimal leasing periods.
+
+You can find more information about my experience and skills on my LinkedIn profile (https://www.linkedin.com/in/kumareshdey/) and GitHub repository (https://github.com/kumareshdey). I'm excited about the opportunity to discuss my application and how I can contribute to the team.
+
+Please feel free to contact me at kumaresh.dey7@gmail.com or +917001348651 to discuss further.
+
+Thank you for considering my application. I look forward to the opportunity to discuss my qualifications further.
