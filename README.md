@@ -1,4 +1,4 @@
-# ProApply - Smart Resume & Cover Letter Generator
+# ProApply - AI Powered JD Based Resume \& Cover Letter Generator
 
 An AI-powered application that helps you create and customize resumes and cover letters optimized for specific job descriptions.
 
